@@ -1,6 +1,6 @@
 ## MSI-MAG-B550M-MORTAR-AX210
 
-## MSI-MAG-B550M-MORTAR/5600X/ AMD Radeon(TM) Graphi
+## MSI-MAG-B550M-MORTAR/5600G/ AMD Radeon(TM) Graphi
 
 OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Radeon™ Integrated Graphics.
 
