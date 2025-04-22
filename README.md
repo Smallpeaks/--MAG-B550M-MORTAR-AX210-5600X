@@ -12,7 +12,7 @@ BIOS : AMI BIOS LAST VERSION
 
 CPU : AMD Ryzen 5 5600G with Radeon Graphics
 
-RAM : 2 x 8GB DDR4 3200Mhz
+RAM : 2 x 32GB DDR4 3200Mhz
 
 Storage : KIOXIA-EXCERIA G2 SSD 1T 
 
