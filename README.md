@@ -2,7 +2,7 @@
 
 ## MSI-MAG-B550M-MORTAR/5600X/ AMD Radeon(TM) Graphi
 
-OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600X Processor + Radeon™ Integrated Graphics.
+OpenCore EFI for B550 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Radeon™ Integrated Graphics.
 
 ## Specification
 
@@ -10,7 +10,7 @@ Motherboard : MSI-MAG-B550M-MORTAR
 
 BIOS : AMI BIOS LAST VERSION
 
-CPU : AMD Ryzen 5 5600X with Radeon Graphics
+CPU : AMD Ryzen 5 5600G with Radeon Graphics
 
 RAM : 2 x 8GB DDR4 3200Mhz
 
